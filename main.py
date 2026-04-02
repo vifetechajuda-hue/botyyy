@@ -3,7 +3,7 @@ from telegram.ext import ApplicationBuilder, MessageHandler, CommandHandler, fil
 import requests
 import json
 
-TOKEN = "SEU_TOKEN_AQUI"
+TOKEN = "8678503369:AAEtaim-RoqTYNMjEuxLozpEYGGXZKH_344"
 OLLAMA_URL = "http://localhost:11434/api/generate"
 
 # memória simples
