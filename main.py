@@ -5,7 +5,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
 # ===== CONFIGURAÇÃO =====
-TOKEN = os.environ["8678503369:AAEtaim-RoqTYNMjEuxLozpEYGGXZKH_344"]
+TOKEN = "8678503369:AAEtaim-RoqTYNMjEuxLozpEYGGXZKH_344"
 OLLAMA_URL = "http://localhost:11434/api/generate"  # LLM local no container
 
 usuarios = {}
